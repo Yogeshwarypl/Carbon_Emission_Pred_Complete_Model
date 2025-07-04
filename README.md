@@ -75,7 +75,7 @@ source .venv/bin/activate    # or .venv\Scripts\activate on Windows
 pip install -r requirements.txt
 
 ```
-##🎯 Run the App
+## 🎯 Run the App
 ```
 
 streamlit run app.py
@@ -84,19 +84,19 @@ streamlit run app.py
 You can now access the app at http://localhost:8501
 
 ---
-##📈 Future Enhancements
+## 📈 Future Enhancements
 🔄 Add time-series forecasting (Prophet, ARIMA)
 
-🧠 Integrate SHAP explainability
+Integrate SHAP explainability
 
-🌍 Live data scraping from World Bank APIs
-
-📥 PDF report generation
+Live data scraping from World Bank APIs
 
 ---
 
 🤝 Contributions
 Contributions and pull requests are welcome! Please open an issue first for major changes.
+
+---
 
 📜 License
 This project is licensed under the MIT License.
