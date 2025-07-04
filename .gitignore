@@ -1,0 +1,16 @@
+# Ignore virtual environment
+.venv/
+
+# Ignore model file
+models/forecasting_co2_emmision.pkl
+
+# Ignore requirements file
+requirement.txt
+
+__pycache__/
+*.pyc
+*.pkl
+.venv/
+.env
+*.log
+*.DS_Store
