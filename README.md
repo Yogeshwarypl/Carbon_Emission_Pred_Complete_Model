@@ -93,13 +93,15 @@ Live data scraping from World Bank APIs
 
 ---
 
-🤝 Contributions
-Contributions and pull requests are welcome! Please open an issue first for major changes.
+## 🤝 Contributions
+
+- Contributions and pull requests are welcome! Please open an issue first for major changes.
 
 ---
 
-📜 License
-This project is licensed under the MIT License.
+## 📜 License
+
+- This project is licensed under the MIT License.
 
 
 ---
