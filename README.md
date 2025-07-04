@@ -1,7 +1,4 @@
-📄 README.md
-markdown
-Copy
-Edit
+
 # 🌍 Carbon Emission Prediction using Machine Learning
 
 This project predicts country-specific **CO₂ emissions** using key economic and energy indicators through machine learning models. The goal is to help policymakers, analysts, and researchers estimate emissions based on historical and current data.
@@ -28,6 +25,8 @@ This project predicts country-specific **CO₂ emissions** using key economic an
 
 ## 📁 Folder Structure
 
+```
+
 carbon_emission_prediction/
 │
 ├── app.py # Streamlit web app
@@ -42,9 +41,7 @@ carbon_emission_prediction/
 ├── requirements.txt
 └── README.md
 
-yaml
-Copy
-Edit
+```
 
 ---
 
@@ -67,30 +64,27 @@ Edit
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/carbon-emission-predictor.git
+git clone https://github.com/Yogeshwarypl/Carbon_Emission_Pred_Complete_Model.git
 cd carbon-emission-predictor
 
-# Create a virtual environment (optional)
+# Create a virtual environment
 python -m venv .venv
 source .venv/bin/activate    # or .venv\Scripts\activate on Windows
 
-# Install dependencies
+#Install dependencies
 pip install -r requirements.txt
-🎯 Run the App
-bash
-Copy
-Edit
+
+```
+##🎯 Run the App
+```
+
 streamlit run app.py
+
+```
 You can now access the app at http://localhost:8501
 
-🌐 Deployment Options
-✅ Streamlit Cloud: streamlit.io
-
-✅ Render.com
-
-✅ .exe File (via PyInstaller)
-
-📈 Future Enhancements
+---
+##📈 Future Enhancements
 🔄 Add time-series forecasting (Prophet, ARIMA)
 
 🧠 Integrate SHAP explainability
@@ -99,24 +93,14 @@ You can now access the app at http://localhost:8501
 
 📥 PDF report generation
 
+---
+
 🤝 Contributions
 Contributions and pull requests are welcome! Please open an issue first for major changes.
 
 📜 License
 This project is licensed under the MIT License.
 
-yaml
-Copy
-Edit
 
 ---
 
-## ✅ What You Should Do Next:
-1. Save the above as `README.md` inside your project root
-2. Replace `yourusername` in GitHub URLs with your actual GitHub username
-3. Then commit & push:
-
-```bash
-git add README.md
-git commit -m "Added project documentation"
-git push
